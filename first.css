@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    color: darkblue;
+    background-color: bisque;
+    margin: 30px;
+
+}
+
+h1{
+    color: darkgreen;
+    font-family: 'Oswald', sans-serif;
+    padding: 6px;
+    border: 5px;
+    margin: 10px;
+    background-color: aqua;
+}
+
+p{
+    font-family: 'Fira-sans', sans-serif;
+}
+
+li{
+    border: 20px;
+    padding: 30px;
+    margin: 15px;
+    background-color: burlywood;
+}
+
+ol{
+    list-style: none;
+
+    margin: 36px auto 0 auto;
+}
